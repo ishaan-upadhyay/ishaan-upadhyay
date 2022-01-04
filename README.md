@@ -1,7 +1,7 @@
-### Hello there 👋
+# Hello there 👋
 ## About me
 I'm Ishaan, currently a student at the University of Toronto, studying Computer Science. Will be seeking internships in Winter 2023.
-[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan-upadhyay)](https://github.com/anuraghazra/github-readme-stats)
+[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan-upadhyay&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ishaan-upadhyay/ishaan-upadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
